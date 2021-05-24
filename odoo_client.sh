@@ -1,2 +1,2 @@
 #!/bin/bash
-chromium --kiosk "https://localhost:8069"
+chromium --kiosk "http://localhost:8069/web/login"

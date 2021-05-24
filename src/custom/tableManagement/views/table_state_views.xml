@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="table_state_tree_view" model="ir.ui.view">
+        <field name="name">table.state.tree.view</field>
+        <field name="model">table.state</field>
+        <field name="arch" type="xml">
+            <tree string="Tables">
+                <field name="table"/>
+                <field name="table_state"/>
+                <field name="is_actual_state"/>
+                <field name="starting_time"/>
+                <field name="ending_time"/>
+            </tree>
+        </field>
+    </record>
+    <record id="table_state_form_view" model="ir.ui.view">
+        <field name="name">table.state.form.view</field>
+        <field name="model">table.state</field>
+        <field name="arch" type="xml">
+            <form string="Table">
+                <group>
+                    <field name="table"/>
+                    <field name="table_state"/>
+                    <field name="is_actual_state"/>
+                    <field name="starting_time"/>
+                    <field name="ending_time"/>
+                </group>
+            </form>
+        </field>
+    </record>
+</odoo>
