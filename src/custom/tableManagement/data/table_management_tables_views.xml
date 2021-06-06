@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <record id="table_state_action" model="ir.actions.act_window">
-        <field name="name">Table state action</field>
+        <field name="name">Table state</field>
         <field name="res_model">table.state</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+    <record id="table_create_action" model="ir.actions.act_window">
+        <field name="name">Table propierties</field>
+        <field name="res_model">table.propierties</field>
         <field name="view_mode">tree,form</field>
     </record>
 </odoo>

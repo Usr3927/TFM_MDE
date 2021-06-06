@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_table_state,access_table_state,model_table_state,base.group_user,1,1,1,1
+access_table_propierties,access_table_propierties,model_table_propierties,base.group_user,1,1,1,1

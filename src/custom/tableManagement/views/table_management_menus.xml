@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <menuitem id="test_menu_root" name="Test">
-        <menuitem id="test_first_level_menu" name="First Level">
-            <menuitem id="table_state_menu_action" action="table_state_action"/>
-        </menuitem>
+    <menuitem id="test_menu_root" name="Table Management">
+        <menuitem id="table_state_menu_action" action="table_state_action"/>
+        <menuitem id="table_creation_menu_action" action="table_create_action"/>
     </menuitem>
 </odoo>

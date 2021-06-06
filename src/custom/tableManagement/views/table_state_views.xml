@@ -5,7 +5,7 @@
         <field name="model">table.state</field>
         <field name="arch" type="xml">
             <tree string="Tables">
-                <field name="table"/>
+                <field name="table_id"/>
                 <field name="table_state"/>
                 <field name="is_actual_state"/>
                 <field name="starting_time"/>
@@ -19,7 +19,7 @@
         <field name="arch" type="xml">
             <form string="Table">
                 <group>
-                    <field name="table"/>
+                    <field name="table_id"/>
                     <field name="table_state"/>
                     <field name="is_actual_state"/>
                     <field name="starting_time"/>

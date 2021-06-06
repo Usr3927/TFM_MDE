@@ -18,6 +18,7 @@
         'data/table_management_tables_views.xml',
         'views/table_management_menus.xml',
         'views/table_state_views.xml',
+        'views/table_propierties_views.xml',
     ],
     'installable': True,
     'application': True,
