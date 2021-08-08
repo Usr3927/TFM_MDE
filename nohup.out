@@ -1,0 +1,1751 @@
+2021-08-08 14:11:21,198 12325 INFO ? odoo: Odoo version 14.0 
+2021-08-08 14:11:21,199 12325 INFO ? odoo: addons paths: ['/home/ubuntu/TFM_MDE/odoo/odoo/addons', '/home/ubuntu/.local/share/Odoo/addons/14.0', '/home/ubuntu/TFM_MDE/odoo/addons', '/home/ubuntu/TFM_MDE/src/custom'] 
+2021-08-08 14:11:21,199 12325 INFO ? odoo: database: firm01@odoo-db.cnfvu3hjlwx5.eu-west-3.rds.amazonaws.com:5432 
+2021-08-08 14:11:21,366 12325 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2021-08-08 14:11:21,458 12325 INFO ? odoo.service.server: HTTP service (werkzeug) running on ip-172-31-30-204.eu-west-3.compute.internal:8069 
+2021-08-08 14:11:21,515 12325 INFO firm01 odoo.modules.loading: loading 1 modules... 
+2021-08-08 14:11:21,532 12325 INFO firm01 odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2021-08-08 14:11:21,545 12325 INFO firm01 odoo.modules.loading: loading 7 modules... 
+2021-08-08 14:11:21,586 12325 INFO firm01 odoo.modules.loading: 7 modules loaded in 0.04s, 0 queries (+0 extra) 
+2021-08-08 14:11:21,735 12325 INFO firm01 odoo.modules.loading: Modules loaded. 
+2021-08-08 14:31:43,518 12325 INFO firm01 odoo.service.server: Initiating shutdown 
+2021-08-08 14:31:43,518 12325 INFO firm01 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2021-08-08 14:39:24,662 888 INFO ? odoo: Odoo version 14.0 
+2021-08-08 14:39:24,663 888 INFO ? odoo: addons paths: ['/home/ubuntu/TFM_MDE/odoo/odoo/addons', '/home/ubuntu/.local/share/Odoo/addons/14.0', '/home/ubuntu/TFM_MDE/odoo/addons', '/home/ubuntu/TFM_MDE/src/custom'] 
+2021-08-08 14:39:24,663 888 INFO ? odoo: database: firm01@odoo-db.cnfvu3hjlwx5.eu-west-3.rds.amazonaws.com:5432 
+2021-08-08 14:39:25,004 888 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2021-08-08 14:39:25,237 888 INFO ? odoo.service.server: HTTP service (werkzeug) running on ip-172-31-30-204.eu-west-3.compute.internal:8069 
+2021-08-08 14:39:25,265 888 INFO firm01 odoo.modules.loading: loading 1 modules... 
+2021-08-08 14:39:25,282 888 INFO firm01 odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2021-08-08 14:39:25,308 888 INFO firm01 odoo.modules.loading: loading 7 modules... 
+2021-08-08 14:39:25,429 888 INFO firm01 odoo.modules.loading: 7 modules loaded in 0.12s, 0 queries (+0 extra) 
+2021-08-08 14:39:25,535 888 INFO firm01 odoo.modules.loading: Modules loaded. 
+2021-08-08 14:45:42,432 888 INFO firm01 odoo.service.server: Initiating shutdown 
+2021-08-08 14:45:42,432 888 INFO firm01 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2021-08-08 15:00:01,760 1043 INFO ? odoo: Odoo version 14.0 
+2021-08-08 15:00:01,761 1043 INFO ? odoo: addons paths: ['/home/ubuntu/TFM_MDE/odoo/odoo/addons', '/home/ubuntu/.local/share/Odoo/addons/14.0', '/home/ubuntu/TFM_MDE/odoo/addons', '/home/ubuntu/TFM_MDE/src/custom'] 
+2021-08-08 15:00:01,761 1043 INFO ? odoo: database: firm01@odoo-db.cnfvu3hjlwx5.eu-west-3.rds.amazonaws.com:5432 
+2021-08-08 15:00:01,942 1043 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2021-08-08 15:00:02,065 1043 INFO ? odoo.service.server: HTTP service (werkzeug) running on ip-172-31-30-204.eu-west-3.compute.internal:8069 
+2021-08-08 15:00:02,447 1043 INFO firm01 odoo.modules.loading: loading 1 modules... 
+2021-08-08 15:00:02,464 1043 INFO firm01 odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2021-08-08 15:00:02,470 1043 INFO firm01 odoo.modules.loading: loading 7 modules... 
+2021-08-08 15:00:02,517 1043 INFO firm01 odoo.modules.loading: 7 modules loaded in 0.05s, 0 queries (+0 extra) 
+2021-08-08 15:00:02,631 1043 INFO firm01 odoo.modules.loading: Modules loaded. 
+2021-08-08 15:00:29,939 1043 INFO ? odoo.http: HTTP Configuring static files 
+2021-08-08 15:00:29,946 1043 INFO firm01 odoo.addons.base.models.ir_http: Generating routing map for key None 
+2021-08-08 15:00:30,033 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:30] "GET / HTTP/1.1" 303 - 1 0.002 0.090
+2021-08-08 15:00:30,266 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:30] "GET /web HTTP/1.1" 303 - 1 0.173 0.016
+2021-08-08 15:00:31,417 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:31] "GET /web/login HTTP/1.1" 500 - 140 0.814 0.264
+2021-08-08 15:00:31,439 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:31,564 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:31] "GET /favicon.ico HTTP/1.1" 404 - 2 0.005 0.006
+2021-08-08 15:00:36,536 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:36] "GET /web/login HTTP/1.1" 500 - 58 0.093 0.035
+2021-08-08 15:00:36,544 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:38,556 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:38] "GET /web/login HTTP/1.1" 500 - 58 0.080 0.034
+2021-08-08 15:00:38,564 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:39,466 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:39] "GET /web/login HTTP/1.1" 500 - 58 0.078 0.034
+2021-08-08 15:00:39,474 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:40,204 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:40] "GET /web/login HTTP/1.1" 500 - 58 0.072 0.039
+2021-08-08 15:00:40,210 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:40,882 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:40] "GET /web/login HTTP/1.1" 500 - 58 0.072 0.035
+2021-08-08 15:00:40,889 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:41,703 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:41] "GET /web/login HTTP/1.1" 500 - 58 0.075 0.034
+2021-08-08 15:00:41,711 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:42,479 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:42] "GET /web/login HTTP/1.1" 500 - 58 0.075 0.034
+2021-08-08 15:00:42,487 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:48,302 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:48] "GET /web/login HTTP/1.1" 500 - 58 0.076 0.035
+2021-08-08 15:00:48,310 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:49,031 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:49] "GET /web/login HTTP/1.1" 500 - 58 0.073 0.035
+2021-08-08 15:00:49,039 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:49,614 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:49] "GET /web/login HTTP/1.1" 500 - 58 0.072 0.035
+2021-08-08 15:00:49,623 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:50,229 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:50] "GET /web/login HTTP/1.1" 500 - 58 0.072 0.033
+2021-08-08 15:00:50,237 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:50,717 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:50] "GET /web/login HTTP/1.1" 500 - 58 0.071 0.034
+2021-08-08 15:00:50,725 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:50,928 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:50] "GET /web/login HTTP/1.1" 500 - 58 0.072 0.052
+2021-08-08 15:00:50,935 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:00:51,086 1043 INFO firm01 werkzeug: 88.7.219.254 - - [08/Aug/2021 15:00:51] "GET /web/login HTTP/1.1" 500 - 58 0.074 0.034
+2021-08-08 15:00:51,093 1043 ERROR firm01 werkzeug: Error on request:
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 237, in _dispatch
+    result = request.dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 806, in dispatch
+    r = self._call_function(**self.params)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 359, in _call_function
+    return checked_call(self.db, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/model.py", line 94, in wrapper
+    return f(dbname, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 350, in checked_call
+    result.flatten()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1242, in flatten
+    self.response.append(self.render())
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1235, in render
+    return env["ir.ui.view"]._render_template(self.template, self.qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1709, in _render_template
+    return self.browse(self.get_view_id(template))._render(values, engine)
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_ui_view.py", line 28, in _render
+    return super(IrUiView, self)._render(values=values, engine=engine, minimal_qcontext=minimal_qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_ui_view.py", line 1717, in _render
+    return self.env[engine]._render(self.id, qcontext)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 55, in _render
+    result = super(IrQWeb, self)._render(id_or_xml_id, values=values, **context)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 258, in _render
+    self.compile(template, options)(self, body.append, values or {})
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_6
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 333, in _compiled_fn
+    raise e
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_login_layout_12
+    
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 338, in _compiled_fn
+    raise QWebException("Error to render compiling AST", e, path, node and etree.tostring(node[0], encoding='unicode'), name)
+Exception
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 306, in run_wsgi
+    execute(self.server.app)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/serving.py", line 294, in execute
+    application_iter = app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/server.py", line 441, in app
+    return self.app(e, s)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 124, in application
+    return application_unproxied(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/service/wsgi_server.py", line 99, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1295, in __call__
+    return self.dispatch(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1263, in __call__
+    return self.app(environ, start_wrapped)
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/werkzeug/middleware/shared_data.py", line 220, in __call__
+    return self.app(environ, start_response)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 1468, in dispatch
+    result = ir_http._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/addons/web_editor/models/ir_http.py", line 21, in _dispatch
+    return super(IrHttp, cls)._dispatch()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 241, in _dispatch
+    return cls._handle_exception(e)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_http.py", line 209, in _handle_exception
+    return request._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 744, in _handle_exception
+    return super(HttpRequest, self)._handle_exception(exception)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/http.py", line 315, in _handle_exception
+    raise exception.with_traceback(None) from new_cause
+odoo.addons.base.models.qweb.QWebException: sequence item 1: expected str instance, bool found
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.qweb', <function IrQWeb._get_asset_nodes at 0x7fbf88de0940>, 'web.assets_common', 'es_ES', True, False, '', False, False, False, (None,))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/qweb.py", line 331, in _compiled_fn
+    return compiled(self, append, new, options, log)
+  File "<template>", line 1, in template_web_frontend_layout_30
+  File "<decorator-gen-66>", line 2, in _get_asset_nodes
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/tools/cache.py", line 90, in lookup
+    value = d[key] = self.method(*args, **kwargs)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/ir_qweb.py", line 297, in _get_asset_nodes
+    return remains + asset.to_node(css=css, js=js, debug=debug, async_load=async_load, defer_load=defer_load, lazy_load=lazy_load)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 153, in to_node
+    css_attachments = self.css() or []
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 336, in css
+    css = self.preprocess_css()
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 467, in preprocess_css
+    compiled += self.compile_css(assets[0].compile, source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 533, in compile_css
+    compiled = compiler(source)
+  File "/home/ubuntu/TFM_MDE/odoo/odoo/addons/base/models/assetsbundle.py", line 885, in compile
+    return libsass.compile(
+  File "/home/ubuntu/VirtualEnvrnmnt/Odoo/lib/python3.8/site-packages/sass.py", line 613, in compile
+    include_paths = os.pathsep.join(include_paths)
+TypeError: sequence item 1: expected str instance, bool found
+
+Error to render compiling AST
+TypeError: sequence item 1: expected str instance, bool found
+Template: web.frontend_layout
+Path: /t/html/head/t[1]
+Node: <t t-call-assets="web.assets_common" t-js="false"/> - - -
+2021-08-08 15:01:25,602 1043 INFO firm01 odoo.service.server: Initiating shutdown 
+2021-08-08 15:01:25,602 1043 INFO firm01 odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
