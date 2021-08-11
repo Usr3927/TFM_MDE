@@ -1,0 +1,10 @@
+2021-08-11 14:55:57,949 889 INFO ? odoo: Odoo version 14.0 
+2021-08-11 14:55:57,949 889 INFO ? odoo: addons paths: ['/home/ubuntu/odoo/odoo/addons', '/home/ubuntu/.local/share/Odoo/addons/14.0', '/home/ubuntu/odoo/addons', '/home/ubuntu/TFM_MDE/src/custom'] 
+2021-08-11 14:55:57,949 889 INFO ? odoo: database: odoo@odoo-db.cnfvu3hjlwx5.eu-west-3.rds.amazonaws.com:5432 
+2021-08-11 14:55:58,094 889 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2021-08-11 14:55:58,184 889 INFO ? odoo.service.server: HTTP service (werkzeug) running on ip-172-31-47-133.eu-west-3.compute.internal:8069 
+2021-08-11 14:55:58,202 889 INFO odoo odoo.modules.loading: loading 1 modules... 
+2021-08-11 14:55:58,219 889 INFO odoo odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2021-08-11 14:55:58,237 889 INFO odoo odoo.modules.loading: loading 48 modules... 
+2021-08-11 14:55:58,599 889 INFO odoo odoo.modules.loading: 48 modules loaded in 0.36s, 0 queries (+0 extra) 
+2021-08-11 14:55:58,982 889 INFO odoo odoo.modules.loading: Modules loaded. 
