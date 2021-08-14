@@ -1,23 +1,35 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
-    <record id="recipes.product_template_search_view" model="ir.ui.view">
-      <field name="name">recipes.product.template.product.tree</field>
+    <!-- explicit list view definition 
+    <record id="recipes.product_template_form_view" model="ir.ui.view">
+      <field name="name">recipes.product.template.form</field>
       <field name="model">product.template</field>
-      <!--
-      <field name="inherit_id" ref="product.product_product_tree_view"/>
-      -->
       <field name="inherit_id" ref="product.product_kanban_view"/>
     </record>
+       -->
+   
+    <record id="recipes.product_template_form_view" model="ir.ui.view">
+      <field name="name">recipes.product.template.form</field>
+      <field name="model">product.template</field>
+      <field name="inherit_id" ref="product.product_template_only_form_view"/>
+      <field name="arch" type="xml">
+        <xpath expr="//page[@name='general_information']" position="after">
+          <page string="Receta" name="recipe">
+            <field name="ingredient_id" widget="many2many_kanban" />
+          </page>
+        </xpath>
+      </field>
 
+    </record>
+               
     <!-- actions opening views on models -->
 
     <record model="ir.actions.act_window" id="recipes.list_recipes">
-      <field name="name">Recetas</field>
+      <field name="name">Platos</field>
       <field name="res_model">product.template</field>
       <field name="view_mode">kanban,tree,form</field>
     </record>
-
+    
     <menuitem id="recipes.root" name="Gestión de recetas">
       <menuitem id="recipes.menu_list_recipes" action="recipes.list_recipes"/>
     </menuitem>
