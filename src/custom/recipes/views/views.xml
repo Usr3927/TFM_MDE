@@ -15,15 +15,16 @@
       <field name="arch" type="xml">
         <xpath expr="//page[@name='general_information']" position="after">
           <page string="Receta" name="recipe">
-            <field name="ingredient_id">
-              <tree string="Lista">
-                <field name="id" />
-                <field name="name" />
-                <field name="description" />
-                <field name="grams" />
-                <field name="litres" />
-              </tree>
-            </field>
+            <group>
+              <field name="ingredient_id">
+                <tree string="Lista">
+                  <field name="name" />
+                  <field name="description" />
+                  <field name="grams" />
+                  <field name="litres" />
+                </tree>
+              </field>
+            </group>
           </page>
         </xpath>
       </field>
@@ -56,7 +57,6 @@
       <field name="model">recipes.ingredient</field>
       <field name="arch" type="xml">
         <tree string="Lista">
-          <field name="id" />
           <field name="name" />
           <field name="description" />
           <field name="grams" />
