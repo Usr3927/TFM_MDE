@@ -15,11 +15,54 @@
       <field name="arch" type="xml">
         <xpath expr="//page[@name='general_information']" position="after">
           <page string="Receta" name="recipe">
-            <field name="ingredient_id" widget="many2many_kanban" />
+            <group>
+              <field name="ingredient_id">
+                <tree string="Lista">
+                  <field name="name" />
+                  <field name="description" />
+                  <field name="grams" />
+                  <field name="litres" />
+                </tree>
+              </field>
+            </group>
           </page>
         </xpath>
       </field>
-
+    </record>
+    
+    <record id="recipes.ingredient_form" model="ir.ui.view">
+      <field name="name">recipes.ingredient.form</field>
+      <field name="model">recipes.ingredient</field>
+      <field name="arch" type="xml">
+        <form string="Raw" name="raw">
+          <group>
+          <field name="name" />
+          <field name="description" />
+          <field name="grams" />
+          <field name="litres" />
+          <field name="raw_id">
+            <tree string="Lista">
+              <field name="name" />
+            </tree>
+          </field>
+          </group>
+          <!--
+          <button name="edit_button" type="object" icon="STOCK_INDEX"/>
+          -->
+        </form>
+      </field>
+    </record>
+    <record id="recipes.ingredient_tree" model="ir.ui.view">
+      <field name="name">recipes.ingredient.tree</field>
+      <field name="model">recipes.ingredient</field>
+      <field name="arch" type="xml">
+        <tree string="Lista">
+          <field name="name" />
+          <field name="description" />
+          <field name="grams" />
+          <field name="litres" />
+        </tree>
+      </field>
     </record>
                
     <!-- actions opening views on models -->
@@ -30,8 +73,15 @@
       <field name="view_mode">kanban,tree,form</field>
     </record>
     
+    <record model="ir.actions.act_window" id="recipes.list_ingredients">
+      <field name="name">Ingredientes</field>
+      <field name="res_model">recipes.ingredient</field>
+      <field name="view_mode">tree,kanban,form</field>
+    </record>
+    
     <menuitem id="recipes.root" name="Gestión de recetas">
       <menuitem id="recipes.menu_list_recipes" action="recipes.list_recipes"/>
+      <menuitem id="recipes.menu_list_ingredients" action="recipes.list_ingredients"/>
     </menuitem>
 
     <!-- server action to the one above -->
