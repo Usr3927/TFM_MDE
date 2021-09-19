@@ -36,15 +36,13 @@
       <field name="arch" type="xml">
         <form string="Raw" name="raw">
           <group>
-          <field name="name" />
-          <field name="description" />
-          <field name="grams" />
-          <field name="litres" />
-          <field name="raw_id">
-            <tree string="Lista">
-              <field name="name" />
-            </tree>
-          </field>
+		  <field name="name" />
+		  <field name="description" />
+		  <field name="grams" />
+		  <field name="litres" />
+		  <field name="raw_id">
+		  	<attribute name="required">True</attribute>
+		  </field>
           </group>
           <!--
           <button name="edit_button" type="object" icon="STOCK_INDEX"/>
@@ -66,7 +64,7 @@
     </record>
                
     <!-- actions opening views on models -->
-
+<!--
     <record model="ir.actions.act_window" id="recipes.list_recipes">
       <field name="name">Platos</field>
       <field name="res_model">product.template</field>
@@ -83,7 +81,7 @@
       <menuitem id="recipes.menu_list_recipes" action="recipes.list_recipes"/>
       <menuitem id="recipes.menu_list_ingredients" action="recipes.list_ingredients"/>
     </menuitem>
-
+-->
     <!-- server action to the one above -->
 <!--
     <record model="ir.actions.server" id="recipes.action_server">
