@@ -20,7 +20,7 @@ class Ingredient(models.Model):
   _description = 'Ingredientes por receta.'
   name=fields.Char(string='Ingrediente')
   meal_id = fields.Many2one("product.template", string='Plato')
-  raw_id = fields.Many2one('product.template',  string="Materia prima")
+  raw_id = fields.Many2one('product.template',  string="Materia prima", required=True)
   description = fields.Text(string='Descripción')
   grams=fields.Float(string='Gramos')
   litres=fields.Float(string='Litros')
