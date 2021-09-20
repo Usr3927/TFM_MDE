@@ -1,0 +1,48 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+
+    <record model="ir.ui.view" id="etl_launcher.list">
+      <field name="name">Programar lanzamiento</field>
+      <field name="model">etl_launcher.etl_schedule</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="fecha"/>
+          <field name="description"/>
+        </tree>
+      </field>
+      
+    </record>
+
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="etl_launcher.action_window">
+      <field name="name">Programar lanzamiento</field>
+      <field name="res_model">etl_launcher.etl_schedule</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- server action to the one above -->
+
+    <record model="ir.actions.server" id="etl_launcher.action_server">
+      <field name="name">etlLauncher server</field>
+      <field name="model_id" ref="model_etl_launcher_etl_schedule"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = model.onDemandLoad()
+      </field>
+    </record>
+
+
+    <!-- Top menu item -->
+
+    <menuitem name="Programar ETL" id="etl_launcher.menu_root" />
+
+    <!-- menu categories -->
+
+    <menuitem name="Lanzar ETL" id="etl_launcher.menu_1" parent="etl_launcher.menu_root" action="etl_launcher.action_server"/>
+    
+  </data>
+</odoo>

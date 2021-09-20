@@ -20,12 +20,16 @@ class Ingredient(models.Model):
   _description = 'Ingredientes por receta.'
   name=fields.Char(string='Ingrediente')
   meal_id = fields.Many2one("product.template", string='Plato')
-  raw_id = fields.Many2many('product.template', relation='template_recipe_rel', column1="template_id", column2="ingredient_id", string="Materia prima")
+  raw_id = fields.Many2one('product.template',  string="Materia prima", required=True)
   description = fields.Text(string='Descripción')
   grams=fields.Float(string='Gramos')
   litres=fields.Float(string='Litros')
-
-
+  
+  @api.constrains('raw_id')
+  def _check_null_product(self):
+    if not self.raw_id:
+      raise ValidationError('El ingrediente '+self.name+' debe relacionarse con una "Materia prima".')
+		
 #  @api.depends('value')
 #  def _value_pc(self):
 #   for record in self:
