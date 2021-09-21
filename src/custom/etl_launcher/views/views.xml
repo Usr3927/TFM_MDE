@@ -28,7 +28,7 @@
 
     <record model="ir.actions.server" id="etl_launcher.action_server">
       <field name="name">etlLauncher server</field>
-      <field name="model_id" ref="model_etl_launcher_etl_schedule"/>
+      <field name="model_id" ref="model_etl_launcher_etl_ondemand"/>
       <field name="state">code</field>
       <field name="code">
         action = model.onDemandLoad()

@@ -10,6 +10,8 @@ class etl_schedule(models.Model):
   fecha = fields.Datetime(string='Fecha y hora', required=True, readonly=False, default=fields.Datetime.now())
   description = fields.Text(string='Descripción')
 
+class etl_ondemand(models.Model):
+  _name = 'etl_launcher.etl_ondemand'
   def onDemandLoad (self, context=None): 
     print("ETL started")
     stg_load()
