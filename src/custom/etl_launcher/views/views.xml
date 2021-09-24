@@ -1,32 +1,90 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
-
-    <record model="ir.ui.view" id="etl_launcher.list">
-      <field name="name">Programar lanzamiento</field>
-      <field name="model">etl_launcher.etl_schedule</field>
-      <field name="arch" type="xml">
-        <tree>
-          <field name="name"/>
-          <field name="fecha"/>
-          <field name="description"/>
-        </tree>
-      </field>
+  
+  
       
+    <!-- explicit list view definition -->
+    
+    <record model="ir.ui.view" id="etl_launcher_cron_tree">
+      <field name="model">ir.cron</field>
+      <field name="arch" type="xml">
+          <tree string="Scheduled Actions" decoration-muted="(not active)">
+              <field name="priority"/>
+              <field name="name"/>
+              <field name="model_id"/>
+              <field name="nextcall"/>
+              <field name="interval_number"/>
+              <field name="interval_type"/>
+              <field name="numbercall"/>
+              <field name="user_id" invisible="1"/>
+              <field name="active"/>
+          </tree>
+      </field>
     </record>
-
+    
+    <record model="ir.ui.view" id="etl_launcher_cron_form">
+            <field name="name">ir.cron.view.form</field>
+            <field name="model">ir.cron</field>
+            <field name="mode">primary</field>
+            <field name="inherit_id" ref="base.view_server_action_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//button[@name='create_action']" position="replace">
+                    <!--<button name="method_direct_trigger" type="object" string="Run Manually" class="oe_highlight" attrs="{'invisible': [('state', '!=', 'code')]}"/>-->
+                </xpath>
+                <xpath expr="//button[@name='unlink_action']" position="replace">
+                </xpath>
+                <xpath expr="//button[@name='run']" position="replace">
+                </xpath>
+                <xpath expr="//group[@name='action_content']" position="inside">
+                    <field name="user_id"/>
+                    
+                    <label for="interval_number" string="Execute Every"/>
+                    <div>
+                        <field name="interval_number" class="oe_inline"/>
+                        <field name="interval_type" class="oe_inline"/>
+                    </div>
+                    <field name="active" widget="boolean_toggle"/>
+                    <field name="nextcall"/>
+                    <field name="numbercall"/>
+                    <field name="priority"/>
+                    <field name="doall"/>
+                </xpath>
+                
+                <xpath expr="//field[@name='model_id']" position="replace">
+                  <field name ='model_id' domain="[('model','=','etl_launcher.etl_ondemand')]"  options="{'limit':1, 'create': false, 'create_edit': false, 'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+                </xpath>
+                
+                <field name="state" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </field>
+                <xpath expr="//notebook" position="replace">
+                <field name="code" widget="ace" options="{'mode': 'python'}" placeholder="Enter Python code here. Help about Python expression is available in the help tab of this document." readonly="True"/>
+                </xpath>
+            </field>
+        </record>
 
     <!-- actions opening views on models -->
-
-    <record model="ir.actions.act_window" id="etl_launcher.action_window">
+    <record model="ir.actions.act_window" id="etl_launcher_action_window">
+      <field name="type">ir.actions.act_window</field>
       <field name="name">Programar lanzamiento</field>
-      <field name="res_model">etl_launcher.etl_schedule</field>
+      <field name="res_model">ir.cron</field>
       <field name="view_mode">tree,form</field>
+      <field name="domain">[('model_id.model','=','etl_launcher.etl_ondemand')]</field>
+      <field name='context'>{'default_code':'#This code snippet starts the load.\nmodel.onDemandLoad()'}</field>
     </record>
-
-    <!-- server action to the one above -->
-
-    <record model="ir.actions.server" id="etl_launcher.action_server">
+    <record model="ir.actions.act_window.view" id="etl_launcher_action_window_tree">
+      <field name="sequence" eval="1"/>
+      <field name="view_mode">tree</field>
+      <field name="view_id" ref="etl_launcher_cron_tree"/>
+      <field name="act_window_id" ref="etl_launcher_action_window"/>
+    </record>
+    <record model="ir.actions.act_window.view" id="etl_launcher_action_window_form">
+      <field name="sequence" eval="2"/>
+      <field name="view_mode">form</field>
+      <field name="view_id" ref="etl_launcher_cron_form"/>
+      <field name="act_window_id" ref="etl_launcher_action_window"/>
+    </record>
+    <record model="ir.actions.server" id="etl_launcher_action_server">
       <field name="name">etlLauncher server</field>
       <field name="model_id" ref="model_etl_launcher_etl_ondemand"/>
       <field name="state">code</field>
@@ -34,15 +92,10 @@
         action = model.onDemandLoad()
       </field>
     </record>
-
-
     <!-- Top menu item -->
 
-    <menuitem name="Programar ETL" id="etl_launcher.menu_root" />
-
-    <!-- menu categories -->
-
-    <menuitem name="Lanzar ETL" id="etl_launcher.menu_1" parent="etl_launcher.menu_root" action="etl_launcher.action_server"/>
+    <menuitem name="Programar ETL" id="etl_launcher.menu_root" action="etl_launcher_action_window"/>
+    <menuitem name="Lanzar ETL" id="etl_launcher.menu_launch" parent="etl_launcher.menu_root" action="etl_launcher_action_server"/>
     
   </data>
 </odoo>
