@@ -9,3 +9,4 @@ class etl_ondemand(models.Model):
   def onDemandLoad (self, context=None): 
     print("ETL started")
     stg_load()
+    ods_load()

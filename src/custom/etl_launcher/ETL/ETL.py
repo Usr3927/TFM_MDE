@@ -47,5 +47,3 @@ ods_sqls = [
   [get_query(root+"ods_fact_pos_sold.sql"), 'ods_fact_pos_sold'],
 ]
 
-stg_load()
-ods_load()
