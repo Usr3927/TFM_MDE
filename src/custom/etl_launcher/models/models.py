@@ -11,3 +11,4 @@ class etl_ondemand(models.Model):
     print("ETL started")
     stg_load()
     ods_load()
+    print("ETL finished")
