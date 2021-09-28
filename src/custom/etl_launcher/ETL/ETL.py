@@ -46,4 +46,6 @@ stg_sqls = [
 ods_sqls = [
   [get_query(root+"ods_fact_pos_sold.sql"), 'ods_fact_pos_sold'],
 ]
-
+etl_load():
+  stg_load()
+  ods_load()
