@@ -10,5 +10,6 @@ class etl_ondemand(models.Model):
   def onDemandLoad (self, context=None): 
     print("ETL started")
     stg_load()
+    print("ODS loading")
     ods_load()
     print("ETL finished")
